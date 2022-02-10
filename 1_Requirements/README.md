@@ -3,18 +3,18 @@
   # Requirements:
   ## High Level Requirements:
                
-             |  ID | Description    |	Status      |
-             |HR_01|	 edit_score()  |	Implemented |
-             |HR_02|	  help()	 |     Implemented |
-             |HR_03|	  reset_score()|	Implemented |
-             |HR_04|	show_record()  |     Implemented |
-             |HR_05|	show_score()	 |     Implemented |
+             |  ID   |       Description    |	Status        |
+             |HR_01  |	 edit_score()   |	Implemented   |
+             |HR_02  |	  help()	  |     Implemented  |
+             |HR_03  |       reset_score()  |	Implemented   |
+             |HR_04  |	show_record()   |     Implemented  |
+             |HR_05  |	show_score()	  |     Implemented  |
 
    ## Low Leval Requirements:
                 
             
 
-                        |ID	     |  Description	Status
+                        |ID	     |  Description	                                                                                   |   Status    |
                         |  LR_01 |  adds the current cash prize won to the previous one upon giving the right answer to a question  | Implemented |
                         |  LR_02 |	   help menu with game summary and rules                                                         | Implemented |
                         |  LR_03 |  to reset the highest score/cash prize to default                                                | Implemented |                                                       |  LR_04 |   shows the highest cash prize won by a particular user	                                     | Implemented |
