@@ -14,6 +14,7 @@
                 * show_record() – shows the highest cash prize won by a particular user
                 * show_score() – to view the highest score
 ## SHOT Analysis:
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fvenngage.com%2Fblog%2Fswot-analysis-templates%2F&psig=AOvVaw3vv_U8cs6XchbzzWk96Rcq&ust=1644589638975000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDZuvyr9fUCFQAAAAAdAAAAABAN
       * Strengths:
           * The existing systems are totally manual thus thera are chances of error in processing.
           * The basic and major drawback in the existing system are the speed of retrival of data from files,which leads to delay.  
