@@ -15,6 +15,15 @@
                 * show_score() – to view the highest score
 ## SHOT Analysis:
    ![image](https://user-images.githubusercontent.com/87614111/153429883-897bb5f4-e6d3-4395-9871-d1f776cbaca4.png)
-      * Strengths:
-          * The existing systems are totally manual thus thera are chances of error in processing.
-          * The basic and major drawback in the existing system are the speed of retrival of data from files,which leads to delay.  
+   Who:
+   This system has been taken up with a veiw for developing a more sophisticated system that can be easily handled by the users.
+
+What:
+The proposed system aims at efficient and timely information for decision making,integrate with other functions and reduce reduntant work.
+
+When:
+Whenever there are exams based on general knowledge,this type of quiz is helpful.
+
+Where:
+It can be used anywhere by anybody like students, faculty, business people to increase their knowledge.
+        
