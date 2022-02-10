@@ -7,12 +7,26 @@
                 * reset_score() 
                 * show_record()
                 * show_score() 
+             |  ID | Description    |	Status      |
+             |HR_01|	 edit_score()  |	Implemented |
+             |HR_02|	  help()	 |     Implemented |
+             |HR_03|	  reset_score()|	Implemented |
+             |HR_04|	show_record()  |     Implemented |
+             |HR_05|	show_score()	 |     Implemented |
+
    ## Low Leval Requirements:
                 * edit_score() – adds the current cash prize won to the previous one upon giving the right answer to a question
                 * help() – help menu with game summary and rules
                 * reset_score() – to reset the highest score/cash prize to default
                 * show_record() – shows the highest cash prize won by a particular user
                 * show_score() – to view the highest score
+                ID	Description	Status
+HR_01	Arithmetic operations	Implemented
+HR_02	Additional operations	Implemented
+HR_03	Wrong operation entered,the calculator gets exit	Implemented
+HR_04	The data should not be lost during failure	Future
+HR_05	Trignometric operations implementation	Future
+HR_06	Permutations and Combinations	Future
 ## SHOT Analysis:
    ![image](https://user-images.githubusercontent.com/87614111/153429883-897bb5f4-e6d3-4395-9871-d1f776cbaca4.png)
    Who:
