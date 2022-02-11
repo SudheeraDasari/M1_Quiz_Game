@@ -5,7 +5,7 @@
 @version 0.1
 @date 2022-02-10
 @copyright Copyright (c) 2022
-#ifded QUIZ_H_
+#ifdef QUIZ_H_
 #define QUIZ_H_
 //incudefiles
 #include<stdio.h>
