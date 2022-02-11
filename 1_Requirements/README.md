@@ -21,16 +21,23 @@
                         |   LR_05|    to view the highest score                                                                     | Implemented |
 ## SHOT Analysis:
    ![image](https://user-images.githubusercontent.com/87614111/153429883-897bb5f4-e6d3-4395-9871-d1f776cbaca4.png)
-  
-   Who:
-   This system has been taken up with a veiw for developing a more sophisticated system that can be easily handled by the users.
+ 
+ 4W's and 1H
+ 
+ 
+ 
+Who:
+    Any user who are intersted can take the quiz and enjoy the quiz.
 
 What:
-The proposed system aims at efficient and timely information for decision making,integrate with other functions and reduce reduntant work.
+    The project is main aim is to anyone participate in the quiz.
 
 When:
-Whenever there are exams based on general knowledge,this type of quiz is helpful.
+   Students are actively participate because the quiz is based on c language.
 
-Where:
-It can be used anywhere by anybody like students, faculty, business people to increase their knowledge.
-        
+Why:
+  The project is mainly about students to get more knowledge on c.
+
+How:
+  The user can take the quiz by entering his name
+   
