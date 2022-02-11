@@ -21,25 +21,19 @@
                         |   LR_05|    to view the highest score                                                                     | Implemented |
 ## SHOT Analysis:
    ![image](https://user-images.githubusercontent.com/87614111/153429883-897bb5f4-e6d3-4395-9871-d1f776cbaca4.png)
- 
  4W's and 1H
- 
- 
- 
-Who:
-    Any user who are intersted can take the quiz and enjoy the quiz.
+Who
+Any user who are intersted can take the quiz and enjoy the quiz.
 
-What:
-    The project is main aim is to anyone participate in the quiz.
+What
+The project is main aim is to anyone participate in the quiz.
 
-When:
-   Students are actively participate because the quiz is based on c language.
+When
+Students are actively participate because the quiz is based on c language.
 
-Why:
-  The project is mainly about students to get more knowledge on c.
+Why
+The project is mainly about students to get more knowledge on c.
 
-How:
-  The user can take the quiz by entering his name
-   
-
+How
+The user can take the quiz by entering his name
 
