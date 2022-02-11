@@ -21,6 +21,7 @@
                         |   LR_05|    to view the highest score                                                                     | Implemented |
 ## SHOT Analysis:
    ![image](https://user-images.githubusercontent.com/87614111/153429883-897bb5f4-e6d3-4395-9871-d1f776cbaca4.png)
+  
    Who:
    This system has been taken up with a veiw for developing a more sophisticated system that can be easily handled by the users.
 
