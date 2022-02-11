@@ -4,6 +4,7 @@
   ## High Level Requirements:
                
              |  ID   |       Description    |	Status        |
+             |-------|----------------------|------------------|
              |HR_01  |	 edit_score()   |	Implemented   |
              |HR_02  |	  help()	  |     Implemented  |
              |HR_03  |       reset_score()  |	Implemented   |
