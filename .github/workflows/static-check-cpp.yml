@@ -12,6 +12,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: action/checkout@v2
+    - name: Install
+      run : sudo apt-get install cppcheck 
     - uses: actions/checkout@v2
     - name: Static Analysis
       run: cppcheck --enable-all 3_Implementation
