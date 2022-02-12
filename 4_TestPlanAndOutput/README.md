@@ -11,7 +11,7 @@ Low Level Test Plan
   |------|----------------------------- |---------------|--------------------|---------------|---------------|
   | LP01 |  user to start the game      | 	Character S	|  starts the game   |	Pass	       |  Requirement  |
   | LP02 |  user has an option to exit	  |   Character Q	|   Exits	           |  Pass	       |  Requirement  |
-  | LP03 | user can view the score     |	  Character y |  Opens results	   |  Pass	       |  Requirement  |
+  | LP03 | user can view the score     |	  Character y |  Opens results	   |  Pass	       |  Requirement    |
   | LPO4 |  user for help               |   Character H |  Opens for help    |  Pass         |  Requirement  |
   | LPO5 |   user for reset             |   Character R |  Opens for reset   |  Pass         |  Requirement  |
   
