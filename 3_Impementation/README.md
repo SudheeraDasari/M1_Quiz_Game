@@ -1,3 +1,3 @@
 Introduction:
 
-       This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.Here i made changes to this project what i referred from medhipranitha.
+     *  This folder conatins all the coding files as well as the resources and testing files need  for proper execution of program.Here i made changes to this project what i referred from medhipranitha.
