@@ -28,7 +28,7 @@ void calculateScore()
 	printf("you got %d numbers.\n",playScore);
 	printf("your %d Question in correct.\n",countQ);
     }
-    else if(Score >= 40&&Score < 60)
+    else if(playScore >= 40&&playScore < 60)
     {
 	printf("Congrats! %s You are win the quiz.\n",name);
 	printf("you got %d numbers.\n",playScore);
