@@ -13,31 +13,31 @@
 #include<stdio.h>
 #include<stdlib.h>
 char name[30];
-int userScore=0,countQ=0;
+int  playScore=0,countQ=0;
 void calculateScore()
 {
-    if (userScore >= 80&&userScore <= 100)
+    if (playScore >= 80&&playScore <= 100)
     {
 	printf("\nCongrats! %s You are win the quiz.\n",name);
-	printf("you got %d numbers.\n",userScore);
+	printf("you got %d numbers.\n",playScore);
 	printf("your %d Question in correct.\n",countQ);
     }
- else if(userScore >= 60&&userScore < 80)
+ else if(playScore >= 60&&playScore < 80)
     {
 	printf("Congrats! %s You are win the quiz.\n",name);
-	printf("you got %d numbers.\n",userScore);
+	printf("you got %d numbers.\n",playScore);
 	printf("your %d Question in correct.\n",countQ);
     }
-    else if(userScore >= 40&&userScore < 60)
+    else if(Score >= 40&&Score < 60)
     {
 	printf("Congrats! %s You are win the quiz.\n",name);
-	printf("you got %d numbers.\n",userScore);
+	printf("you got %d numbers.\n",playScore);
 	printf("your %d Question in correct.\n",countQ);
     }
-    else if(userScore >= 10&&userScore < 40)
+    else if(playScore >= 10&&playScore < 40)
     {
 	printf("Sorry! %s You are loose the quiz.\n",name);
-	printf("you got %d numbers.\n",userScore);
+	printf("you got %d numbers.\n",playScore);
 	printf("your %d Question in correct.\n",countQ);
 	printf("*******Better luck lext time*********\n");
     }
@@ -49,7 +49,7 @@ char result(char choose,char correct)
     if (choose==correct)
     {
 	countQ++;
-	userScore=userScore+10;
+	Score=Score+10;
 	printf("Answer is correct!\n");
 	printf("Press (Y) to continue Quiz ");
 	printf("If you want to end this Quiz then press (N)\n");
