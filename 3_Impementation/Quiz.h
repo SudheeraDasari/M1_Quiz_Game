@@ -52,7 +52,7 @@ char result(char choose,char correct)
 	Score=Score+10;
 	printf("Answer is correct!\n");
 	printf("Press (Y) to continue Quiz ");
-	printf("If you want to end this Quiz then press (N)\n");
+	printf("If you want to end this Quiz then press (N)\n");"\n\n\nWhat is the National Name of Japan?"
 	fflush(stdin);
 	scanf("%c",&next);
 	return(next);
@@ -69,8 +69,8 @@ char result(char choose,char correct)
 void question()
 {
     char choose,correct;
-    printf("1.Q-which data type store characters?\n");
-    printf("\t(A).Int\t(B).float\n");
+    printf("1.Q-Which datatype store chaacteristics?\n");
+    printf("\t(A).int\t(B).float\n");
     printf("\t(C).char\t(D).byte\n");
     printf("Choose which option is correct:");
     fflush(stdin);
