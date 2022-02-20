@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
     - name: Static Amalysis
       run: Cppcheck --enablea=ll 3_Implementation
 
