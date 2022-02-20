@@ -1,4 +1,4 @@
-name: CCppcheck
+name: Cppcheck
 
 on:
   push:
@@ -15,6 +15,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install
       run: sudo apt-get install cppcheck
-    - name: Static Amalysis
+    - name: Static Analysis
       run: Cppcheck --enable=all 3_Implementation
 
