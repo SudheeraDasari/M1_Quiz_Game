@@ -15,7 +15,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install
       run: sudo apt-get install cppcheck
-  
     - name: Static Amalysis
       run: Cppcheck --enable=all 3_Implementation
 
