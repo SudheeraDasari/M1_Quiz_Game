@@ -17,4 +17,4 @@ jobs:
       run: ./configure
     - name: Static Amalysis
       run: Cppcheck --enablea=ll 3_Implementation
-    -
+
