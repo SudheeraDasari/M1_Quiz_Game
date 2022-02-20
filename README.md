@@ -11,3 +11,4 @@
 https://api.codiga.io/project/31414/status/svg
 https://api.codiga.io/project/31414/score/svg
 https://app.codiga.io/public/project/31414/M1_Quiz_Game/dashboard
+![codiga 3](https://user-images.githubusercontent.com/87614111/154824683-28de3422-2afd-4925-9a60-765ca4000b33.PNG)
