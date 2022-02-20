@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: Cppcheck
 
 on:
   push:
@@ -13,8 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install CppCheck
-      run: sudo apt-y install cppcheck
+    - name: Install 
+      run: sudo apt-get install cppcheck
     - name: Run cppcheck
       run: Cppcheck --enable=all 3_Implementation
 
