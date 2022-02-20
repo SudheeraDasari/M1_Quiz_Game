@@ -30,7 +30,7 @@
     |  LR_02         |	   help menu with game summary and rules                                                    | Implemented |
     |  LR_03         |  to reset the highest score/cash prize to default                                                | Implemented |                                             |  LR_04         |   shows the highest cash prize won by a particular user	                                     | Implemented |
     |   LR_05        |    to view the highest score                                                                     | Implemented |
-## SHOT Analysis:
+## SWOT Analysis:
    ![image](https://user-images.githubusercontent.com/87614111/153429883-897bb5f4-e6d3-4395-9871-d1f776cbaca4.png)
  4W's and 1H
 Who:
