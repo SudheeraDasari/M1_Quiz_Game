@@ -33,19 +33,27 @@
     |   LR_05        |    to view the highest score                                                                     | Implemented |
 ## SWOT Analysis:
    ![image](https://user-images.githubusercontent.com/87614111/153429883-897bb5f4-e6d3-4395-9871-d1f776cbaca4.png)
- 4W's and 1H
-Who:
+   # Strength
+     It is user friendly and helpful.
+   # Weakness
+    Thers is no efficient alogorithm to perform code.
+   # Oppurnities
+    User can get high scores.
+   # Threat
+    There is no time limit.
+# 4W's and 1H
+# Who:
 Any user who are intersted can take the quiz and enjoy the quiz.
 
-What:
-The project is main aim is to anyone participate in the quiz.
+# What:
+The project main aim is to anyone participate in the quiz.
 
-When:
+# When:
 Students are actively participate because the quiz is based on c language.
 
-Why:
+# Why:
 The project is mainly about students to get more knowledge on c.
 
-How:
+# How:
 The user can take the quiz by entering his name
 
