@@ -16,5 +16,5 @@ jobs:
     - name: configure
       run: ./configure
     - name: Static Amalysis
-      run: Cppcheck --enableall 3_Implementation
+      run: Cppcheck --enablea=ll 3_Implementation
     -
