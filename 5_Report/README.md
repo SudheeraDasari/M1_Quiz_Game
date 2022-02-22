@@ -87,6 +87,8 @@
   | LP03 | user can view the score     |	  Character y |  Opens results	   |  Pass	       |  Requirement    |
   
  Documentation is also done for the project with Doxygen
+ 
+ 
  All Codacy, Codiga, Unity, Dynamic Check, Static Check, Linux build is done
 
 
