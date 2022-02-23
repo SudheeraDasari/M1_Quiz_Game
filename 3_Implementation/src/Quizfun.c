@@ -1,4 +1,5 @@
-#include "Quiz.h"
+#include "Quiz.h";
+
 int userScore=0,countQ=0;
 void calculateScore()
 {
