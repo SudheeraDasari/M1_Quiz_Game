@@ -86,6 +86,17 @@
   | LP02 |  user has an option to exit	  |   Character N	|   Exits	           |  Pass	       |  Requirement  |
   | LP03 | user can view the score     |	  Character y |  Opens results	   |  Pass	       |  Requirement    |
   
+  
+ # Images
+ ![output-1](https://user-images.githubusercontent.com/87614111/154825183-031f767d-cf63-4e4b-ab79-c66a1e0eb479.PNG)
+
+
+![output2](https://user-images.githubusercontent.com/87614111/155377591-f3ce9865-6af1-4d20-8c41-f6ad338f88cb.PNG)
+
+# References
+
+##
+  
  Documentation is also done for the project with Doxygen
  
  
