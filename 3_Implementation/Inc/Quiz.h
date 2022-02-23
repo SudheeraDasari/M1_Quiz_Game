@@ -14,11 +14,8 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-char name[30];
-char choose;
 
 
 void calculateScore();
-char result(char choose,char correct);
 void question();
 void menu();
