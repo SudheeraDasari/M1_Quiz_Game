@@ -1,3 +1,13 @@
+/**
+ * @file Main.c
+ * @author dasarisudheera
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-18
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "Quiz.h";
 
 int userScore=0,countQ=0;
