@@ -10,7 +10,7 @@
  */
 #include"Quiz.h"
 #include"unity.h"
-void test_Quizfun();
+void test_Main.c();
 void setUp(){}
 /* Required by the unity test framework */
 void tearDown(){}
@@ -21,7 +21,7 @@ int main()
   UNITY_BEGIN();
 
 /* Run Test functions */
-  RUN_TEST(test_Quizfun)
+  RUN_TEST(test_Main.c)
 
   /* Close the Unity Test Framework */
   return UNITY_END();
