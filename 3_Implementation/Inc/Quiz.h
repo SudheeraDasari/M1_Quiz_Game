@@ -1,6 +1,6 @@
 /**
  * @file Quiz.h
- * @author your name (you@domain.com)
+ * @author dasarisudheera
  * @brief 
  * @version 0.1
  * @date 2022-02-11
