@@ -28,6 +28,23 @@
 ## 2.Visual studio Code
 <br>
 
+#  High Level Requirements:
+
+## * Any User can take quiz by entering his name.
+
+## * User has to complete all the questions in order to pass the quiz.
+
+## * User shall be able to exit the game.
+
+## * User can lose or win.
+
+
+# Low Level Requiements:
+
+## * User can view all the rules of the game.
+
+## * User can view the score.
+
 # SWOT Analysis:
 
 
