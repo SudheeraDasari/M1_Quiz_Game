@@ -112,12 +112,12 @@
 
 # References
 
-## This folder conatins all the coding files as well as the resources and testing files need for proper execution of program.Here i made this project what i referred from medipranitha.
+# Taken Reference from medipranitha.
   
-# Documentation is also done for the project with Doxygen
+## Documentation is also done for the project with Doxygen
  
  
-# All Codacy, Codiga, Unity, Cpp Check action is done
+## All Codacy, Codiga, Unity, Cpp Check action is done
 
 
 
