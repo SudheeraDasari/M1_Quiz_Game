@@ -6,7 +6,8 @@ INC = Quiz.h
 TEST_SRC=src/Quiz.c\
 src/Test_Quiz.c\
 unity/unity.c
-
+INC=-Iinclude\
+-Iunity\
 ifdef OS
    RM = del /q
    FixPath = $(subst /,\,$1)
